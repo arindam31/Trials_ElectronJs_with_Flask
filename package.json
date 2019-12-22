@@ -13,6 +13,7 @@
     "electron": "^7.1.2"
   },
   "dependencies": {
-    "python-shell": "^1.0.8"
+    "python-shell": "^1.0.8",
+    "tree-kill": "^1.2.1"
   }
 }
